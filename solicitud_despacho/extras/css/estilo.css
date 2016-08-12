@@ -1,0 +1,348 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+a{
+
+	color: #369;
+
+	text-decoration: none;
+
+}
+
+
+
+a:hover{
+
+	color: #E17919;
+
+}
+
+
+
+
+
+
+body, input, select{
+
+	font-size: 11px;
+
+	font-family: "Lucida Sans Unicode";
+
+}
+
+
+
+img{
+
+	border: 0px;
+
+}
+
+
+
+#cuerpo{
+
+	margin: auto;
+
+	width: 700px;
+
+	padding: 20px 20px 20px 20px;
+
+	background-color: #fff;
+
+}
+
+
+
+h1{
+
+	font-size:1.2em;
+
+	color: #E17919;
+
+}
+
+
+
+h2{
+
+	font-size:1.0em;
+
+	color: #6FA7D1;
+
+}
+
+
+
+h1, h2, p{
+
+	margin: 0px 0px 20px 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+table.formulario{
+
+	margin: 0px auto 20px auto;
+
+}
+
+
+
+table.formulario td, table.formulario th{
+
+	padding: 6px;
+
+	vertical-align: top;
+
+}
+
+
+
+table.formulario thead th{
+
+	font-weight: normal;
+
+	color: #6FA7D1;
+
+	vertical-align: top;
+
+}
+
+
+
+table.formulario tfoot td{
+
+	text-align: right;
+
+	vertical-align: top;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table.lista{
+
+	margin: 0px auto 20px auto;
+
+	border-collapse: collapse;
+
+}
+
+
+
+table.lista td, table.lista th{
+
+	padding: 6px;
+
+	vertical-align: top;
+
+}
+
+
+
+table.lista thead th{
+
+	font-weight: normal;
+
+	color: #6FA7D1;
+
+	text-align: left;
+
+	border-bottom: 1px solid #DDECF7;
+
+}
+
+
+
+table.lista tbody tr{
+
+	border-bottom: 1px solid #ddd;
+
+}
+
+
+
+table.lista tfoot td{
+
+	text-align: center;
+
+	color: #6FA7D1;
+
+	vertical-align: top;
+
+}
+
+
+
+table.lista strong, table.formulario strong{
+
+	color: #6FA7D1;
+
+	font-weight: normal;
+
+}
+
+
+
+table.contenedor{
+
+	margin: 0px 0px 20px 0px;
+
+	border-collapse: collapse;
+
+}
+
+
+
+table.contenedor>td, table.contenedor>th{
+
+	padding: 0px;
+
+	margin: 0px;
+
+}
+
+
+
+table.contenedor td{
+
+	vertical-align: top;
+
+}
+
+
+
+.over{
+
+	background-color: #DDECF7;
+
+	color: #E17009;
+
+}
+
+
+
+label.error{
+
+	color: #900;
+
+	margin: 0px 0px 0px 10px;
+
+}
+
+
+
+.delete{ background:url('https://cdn1.iconfinder.com/data/icons/diagona/icon/16/101.png') no-repeat; }
+
+ .add-material{
+
+  background: #CCC;
+
+  border-radius: 2px;
+
+  -webkit-border-radius: 2px;
+
+  -moz-border-radius: 2px;
+
+  padding: 8px;
+
+  -webkit-box-shadow: 1px 2px 1px #d1d1d1;
+
+  -moz-box-shadow: 1px 2px 1px #d1d1d1;
+
+  box-shadow: 1px 2px 1px #d1d1d1;
+
+  margin-bottom:5px;
+
+}
+
+.box-material input{ width:190px;}
+
+.alert-box {
+
+  color:#555;
+
+  border-radius:10px;
+
+  font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+
+  padding:10px 10px 10px 36px;
+
+  margin:10px;
+
+  display:none;
+
+}
+
+.alert-box span {
+
+  font-weight:bold;
+
+  text-transform:uppercase;
+
+}
+
+.error {
+
+  background:#ffecec url('images/error.png') no-repeat 10px 50%;
+
+  border:1px solid #f5aca6;
+
+  position: absolute;
+
+}
+
+.success {
+
+  background:#e9ffd9 url('images/success.png') no-repeat 10px 50%;
+
+  border:1px solid #a6ca8a;
+
+  position: absolute;
+
+}
+
+.warning {
+
+  background:#fff8c4 url('images/warning.png') no-repeat 10px 50%;
+
+  border:1px solid #f2c779;
+
+  position: absolute;
+
+}
+
+.notice {
+
+  background:#e3f7fc url('images/notice.png') no-repeat 10px 50%;
+
+  border:1px solid #8ed9f6;
+
+  position: absolute;
+
+}

@@ -1,0 +1,5 @@
+[27-May-2015 19:11:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../../../wp-config.php' (include_path='.:/usr/local/php55/pear') in /home/cleanapp/public_html/entregaya.co/server/testandroid.php on line 23
+[27-May-2015 19:16:07 America/Bogota] PHP Warning:  file_get_contents(http://api.devicepush.com/send): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/cleanapp/public_html/entregaya.co/wp-content/plugins/zoomapp/template/gcm/connect.php on line 234
+[27-May-2015 19:16:11 America/Bogota] PHP Warning:  file_get_contents(http://api.devicepush.com/send): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/cleanapp/public_html/entregaya.co/wp-content/plugins/zoomapp/template/gcm/connect.php on line 234

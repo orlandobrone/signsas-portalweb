@@ -1,0 +1,35 @@
+.content_tables table{
+	background: #f1f1f1;
+	border: solid 1px #ff9900;
+	font-size:11px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+} 
+.content_tables	thead{
+		background: #ff9900;
+		color: #fff;
+	}
+.content_tables		thead th{
+			padding: 10px;
+		}
+.content_tables	tbody{
+		text-align: center;
+	}
+.content_tables		tbody td{ 
+			padding: 5px;
+			border-bottom: solid 1px #ccc;
+		}
+.content_tables		tbody td:nth-child(odd){
+			background: #fafafa;
+		}
+.content_tables		tbody td:nth-child(even){
+			background: #f1f1f1;
+		}
+
+
+
+.content_tables{
+	max-width:950px;
+	min-width:950px;
+	max-height:450px;
+	overflow:scroll;
+}

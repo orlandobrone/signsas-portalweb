@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300471800000000" />
+<file name="CachedObjectStorageFactory.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300471800000000" />
+<file name="Calculation.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300471800000000" />
+<file name="Cell.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="Chart.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="Comment.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="DocumentProperties.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="DocumentSecurity.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="HashTable.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="IComparable.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="IOFactory.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300472400000000" />
+<file name="NamedRange.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300473600000000" />
+<file name="ReferenceHelper.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300474200000000" />
+<file name="RichText.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300474200000000" />
+<file name="Settings.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300474200000000" />
+<file name="Style.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300482000000000" />
+<file name="Worksheet.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300482600000000" />
+<file name="WorksheetIterator.php" server="proyecto.ingecall.com//www/proyecto/" local="129819271940000000" remote="130300482600000000" />
+</dwsync>
